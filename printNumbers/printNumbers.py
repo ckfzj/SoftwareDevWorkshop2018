@@ -35,6 +35,7 @@ Options:
   --factorial     Print the factorial.
 """
 
+print('Changes by DP!')
 try:
     from docopt import docopt
     from parameters import *
